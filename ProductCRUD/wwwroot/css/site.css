@@ -1,0 +1,42 @@
+html {
+  font-size: 14px;
+}
+
+#addBtn {
+    text-align: right;
+    margin-bottom: 10px;
+}
+#heading {
+    text-align: center;
+}
+
+#form {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+#btn {
+    margin-top: 10px;
+}
+
+label {
+    display: table-cell;
+    white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+    html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}

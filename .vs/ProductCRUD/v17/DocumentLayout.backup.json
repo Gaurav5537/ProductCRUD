@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|c:\\users\\gaura\\source\\repos\\productcrud\\productcrud\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|c:\\users\\gaura\\source\\repos\\productcrud\\productcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|c:\\users\\gaura\\source\\repos\\productcrud\\productcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|c:\\users\\gaura\\source\\repos\\productcrud\\productcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36333EF0-0FC6-41CC-9A8A-FB6250749C28}|ProductCRUD\\ProductCRUD.csproj|solutionrelative:productcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:59:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProductCRUD\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProductCRUD\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAA5wCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T16:51:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductCRUD\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductCRUD\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T13:22:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gaura\\source\\repos\\ProductCRUD\\ProductCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T05:30:12.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿@model ProductCRUD.Models.Product
+
+@{
+    ViewData["Title"] = "Add New Product";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4" id="form">
+        @if (Model == null)
+        {
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="ProductName" class="control-label"></label>
+                    <input asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProductDesc" class="control-label"></label>
+                    <input asp-for="ProductDesc" class="form-control" />
+                    <span asp-validation-for="ProductDesc" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Add" class="btn btn-primary" id="btn"/>
+                </div>
+            </form>
+        } else
+        {
+            <form asp-action="Update">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                @Html.Hidden("id");
+                <div class="form-group">
+                    <label asp-for="ProductName" class="control-label"></label>
+                    <input asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProductDesc" class="control-label"></label>
+                    <input asp-for="ProductDesc" class="form-control" />
+                    <span asp-validation-for="ProductDesc" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-primary" id="btn" />
+                </div>
+            </form>
+        }
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@* @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@
